@@ -45,8 +45,6 @@ arrowRight.addEventListener("click", function() {
     current = -1;
   }
   slideRight();
-
-  event.preventDefault;
 });
 
 startSlide();
